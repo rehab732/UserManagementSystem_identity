@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bebo\\Desktop\\UserManagement\\UserManagement\\UserManagement.csproj": {}
+    "E:\\ITI\\ITI Projects\\UserManagementSystem_identity\\UserManagement\\UserManagement\\UserManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bebo\\Desktop\\UserManagement\\UserManagement\\UserManagement.csproj": {
+    "E:\\ITI\\ITI Projects\\UserManagementSystem_identity\\UserManagement\\UserManagement\\UserManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bebo\\Desktop\\UserManagement\\UserManagement\\UserManagement.csproj",
+        "projectUniqueName": "E:\\ITI\\ITI Projects\\UserManagementSystem_identity\\UserManagement\\UserManagement\\UserManagement.csproj",
         "projectName": "UserManagement",
-        "projectPath": "C:\\Users\\Bebo\\Desktop\\UserManagement\\UserManagement\\UserManagement.csproj",
+        "projectPath": "E:\\ITI\\ITI Projects\\UserManagementSystem_identity\\UserManagement\\UserManagement\\UserManagement.csproj",
         "packagesPath": "C:\\Users\\Bebo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bebo\\Desktop\\UserManagement\\UserManagement\\obj\\",
+        "outputPath": "E:\\ITI\\ITI Projects\\UserManagementSystem_identity\\UserManagement\\UserManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
